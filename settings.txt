@@ -1,3 +1,2 @@
-https://www.pinksale.finance/#/launchpad/0x66420049a9b05bCeD3F5F07B294Ee593c0732cEc?chain=BSC
-4
-kthenur
+https://www.pinksale.finance/launchpad/0xff72D649F17d0F9b58990113c902B0b0b728163F?chain=BSC
+kthentur
